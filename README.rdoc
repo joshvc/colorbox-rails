@@ -2,6 +2,10 @@
 
 Make links open in lightbox (colorbox) a breeze
 
+= Note
+
+This is a modified version that uses Example 2 CSS.
+
 = Usage
 
 in your application.css
